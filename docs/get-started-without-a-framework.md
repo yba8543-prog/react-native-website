@@ -1,4 +1,4 @@
----
+npm start---
 id: getting-started-without-a-framework
 title: Get Started Without a Framework
 hide_table_of_contents: true
